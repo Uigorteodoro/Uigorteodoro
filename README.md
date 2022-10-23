@@ -6,6 +6,7 @@
   <a href="https://github.com/Uigorteodoro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uigorteodoro&show_icons=true&locale=en&include_all_commits&count_private=true" alt="uigorteodoro"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uigorteodoro&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uigorteodoro&hide=html&layout=compact&theme=buefy" />  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="uigor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
