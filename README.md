@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/Uigorteodoro">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uigorteodoro&show_icons=true&locale=en" alt="uigorteodoro"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=uigorteodoro&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="uigorteodoro"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uigorteodoro&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
