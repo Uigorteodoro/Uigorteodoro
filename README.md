@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Uigor+Teodoro;I+am+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Uigor+Teodoro;I+am+21+years+old;I'm+from+Brazil;I'm+currently+a+student+of+SI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!-- <h2 align="center">Hi 👋! My name is Uigor</h2>
 -->
